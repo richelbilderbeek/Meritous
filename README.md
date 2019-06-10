@@ -96,8 +96,8 @@ Circuit (re)charge level | Wuss mode | Normal mode mode
 21 | 20972360 | 41944720
 22 | 41943920 | 83887840
 23 | 83887000 | 167774000
-## External links
 24 | 335546240 | 167773120
 
+## External links
 
  * [Meritous homepage](http://asceai.nfshost.com/meritous/)
